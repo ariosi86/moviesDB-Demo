@@ -1,7 +1,6 @@
 "use client";
-import { useEffect, useState, useRef } from "react";
-
 import { useServices } from "@/data/providers/ServicesProvider";
+import { useEffect, useState, useRef } from "react";
 
 export default function Home() {
   const { getMovies } = useServices();
