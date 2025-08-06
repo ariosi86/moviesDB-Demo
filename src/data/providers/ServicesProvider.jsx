@@ -4,7 +4,7 @@ import Services from "../api/mock";
 
 const ServicesContext = createContext();
 
-export const ServicesProvider = ({ children }) => {
+const ServicesProvider = ({ children }) => {
   const [stateServices, setStateServices] = useState(false);
 
   const getMovies = async () => {
@@ -28,6 +28,6 @@ export const ServicesProvider = ({ children }) => {
   );
 };
 
-export const useServices = () => useContext(ServicesContext);
+const useServices = () => useContext(ServicesContext);
 
 export { ServicesProvider, useServices };
