@@ -1,0 +1,204 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "titulo": "Citizen Kane",
+      "director": "Orson Welles",
+      "año": 1941,
+      "genero": "drama",
+      "imagen": "https://www.themoviedb.org/t/p/w500/6qzNtA14Ku5T7u3oVK88nBL3VBB.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Vertigo",
+      "director": "Alfred Hitchcock",
+      "año": 1958,
+      "genero": "suspenso",
+      "imagen": "https://www.themoviedb.org/t/p/w500/5B0wprAlIyRj9cDzB18HIUX9xVX.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Gone with the Wind",
+      "director": "Victor Fleming",
+      "año": 1939,
+      "genero": "romance",
+      "imagen": "https://www.themoviedb.org/t/p/w500/9O1Iy9od0zHSdP0fJyADeuWzU8I.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "año": 1972,
+      "genero": "drama familiar",
+      "imagen": "https://www.themoviedb.org/t/p/w500/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "La La Land",
+      "director": "Damien Chazelle",
+      "año": 2016,
+      "genero": "musical",
+      "imagen": "https://www.themoviedb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "año": 1994,
+      "genero": "crimen",
+      "imagen": "https://www.themoviedb.org/t/p/w500/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Schindler's List",
+      "director": "Steven Spielberg",
+      "año": 1993,
+      "genero": "historia",
+      "imagen": "https://www.themoviedb.org/t/p/w500/c8Ass7acuOe4za6DhSattE359gr.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "año": 2008,
+      "genero": "acción",
+      "imagen": "https://www.themoviedb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "año": 1994,
+      "genero": "drama",
+      "imagen": "https://www.themoviedb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "año": 2010,
+      "genero": "ciencia ficción",
+      "imagen": "https://www.themoviedb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "año": 1999,
+      "genero": "ciencia ficción",
+      "imagen": "https://www.themoviedb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Casablanca",
+      "director": "Michael Curtiz",
+      "año": 1942,
+      "genero": "romance",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-GoldPoster.png"
+    },
+    {
+      "id": 13,
+      "titulo": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "año": 1994,
+      "genero": "drama carcelario",
+      "imagen": "https://www.themoviedb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Titanic",
+      "director": "James Cameron",
+      "año": 1997,
+      "genero": "romance",
+      "imagen": "https://www.themoviedb.org/t/p/w500/kHXEpyfl6zqn8a6YuozZUujufXf.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Gladiator",
+      "director": "Ridley Scott",
+      "año": 2000,
+      "genero": "historia",
+      "imagen": "https://www.themoviedb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "año": 1991,
+      "genero": "suspenso",
+      "imagen": "https://www.themoviedb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "Amélie",
+      "director": "Jean-Pierre Jeunet",
+      "año": 2001,
+      "genero": "comedia romántica",
+      "imagen": "https://www.themoviedb.org/t/p/w500/wi9VhD7uHE1hDr0jASxX1l7u4eD.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "Life is Beautiful",
+      "director": "Roberto Benigni",
+      "año": 1997,
+      "genero": "drama",
+      "imagen": "https://www.themoviedb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "The Green Mile",
+      "director": "Frank Darabont",
+      "año": 1999,
+      "genero": "drama fantástico",
+      "imagen": "https://www.themoviedb.org/t/p/w500/o22IjSb03e8PSemZ3ilTlhFYb7A.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "año": 2001,
+      "genero": "animación",
+      "imagen": "https://www.themoviedb.org/t/p/w500/oRvMaJOmapypFUcQqpgHMZA6qL9.jpg"
+    },
+    {
+      "id": 21,
+      "titulo": "Fight Club",
+      "director": "David Fincher",
+      "año": 1999,
+      "genero": "drama",
+      "imagen": "https://www.themoviedb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "año": 2003,
+      "genero": "fantasía",
+      "imagen": "https://www.themoviedb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": "Saving Private Ryan",
+      "director": "Steven Spielberg",
+      "año": 1998,
+      "genero": "bélico",
+      "imagen": "https://www.themoviedb.org/t/p/w500/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg"
+    },
+    {
+      "id": 24,
+      "titulo": "The Prestige",
+      "director": "Christopher Nolan",
+      "año": 2006,
+      "genero": "misterio",
+      "imagen": "https://www.themoviedb.org/t/p/w500/5MXyQfz8xUP3dIFPTubhTsbFY6N.jpg"
+    },
+    {
+      "id": 25,
+      "titulo": "The Departed",
+      "director": "Martin Scorsese",
+      "año": 2006,
+      "genero": "crimen",
+      "imagen": "https://www.themoviedb.org/t/p/w500/5B2RUS4Uc2ApZX3s05J5UC6X6Ep.jpg"
+    }
+  ]
+}
